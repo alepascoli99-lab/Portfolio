@@ -7,13 +7,20 @@
 
 ## Projects
 [Machine Learning - Clustering and image processing](https://github.com/alepascoli99-lab/ML-Clustering.git)
+
 [Statistics - Coin toss problem](https://github.com/alepascoli99-lab/Statistics-CoinTossProblem.git)
+
 [Statistics - Bivariate Gaussian distribution](https://github.com/alepascoli99-lab/Statistics-BivariateGaussian.git)
+
 [Monte Carlo sampling - Cholesky decomposition](https://github.com/alepascoli99-lab/MonteCarlo-Cholesky.git)
+
 [Markov Chain Monte Carlo - Metropolis-Hastings algorithm](https://github.com/alepascoli99-lab/MonteCarlo-MetropolisHastings.git)
+
 [Markov Chain Monte Carlo - Gibbs algorithm](https://github.com/alepascoli99-lab/MonteCarlo-Gibbs.git)
+
 [Rejection sampling algorithm](https://github.com/alepascoli99-lab/RejectionSampling.git)
 
 ## Contact me
 **email**: ale.pascoli99@gmail.com
+
 **LinkedIn**: [Alessia Pascoli](https://www.linkedin.com/in/alessia-pascoli-5b8b71354/)
