@@ -23,4 +23,4 @@
 ## Contact me
 **email**: ale.pascoli99@gmail.com
 
-**LinkedIn**: [Alessia Pascoli](https://www.linkedin.com/in/alessia-pascoli-5b8b71354/)
+**LinkedIn**: [Alessia Pascoli](https://www.linkedin.com/in/alessia-pascoli/)
