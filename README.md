@@ -6,6 +6,6 @@
 **Content**: This portfolio includes a collection of Python projects I developed during my Master studies. Each repository contains the main code in the form of a Jupyter notebook, a short description of the project and additional data files when needed. Hope you enjoy!
 
 ## Projects
-[Statistics - Coin toss problem]: [![Open](https://github.com/alepascoli99-lab/Statistics-CoinTossProblem.git)](url)
+[Statistics - Coin toss problem]: [[text](https://github.com/alepascoli99-lab/Statistics-CoinTossProblem.git)](url)
 
 ## Contact me
