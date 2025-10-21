@@ -22,6 +22,8 @@
 
 [Markov Chain Monte Carlo - Gibbs algorithm](https://github.com/alepascoli99-lab/MonteCarlo-Gibbs.git)
 
+[Fourier transform](https://github.com/alepascoli99-lab/FourierTransform.git)
+
 [Rejection sampling algorithm](https://github.com/alepascoli99-lab/RejectionSampling.git)
 
 ## Contact me
