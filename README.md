@@ -10,6 +10,8 @@
 
 [Machine Learning - Clustering and image processing](https://github.com/alepascoli99-lab/ML-Clustering.git)
 
+[Machine Learning - Support Vector Machines](https://github.com/alepascoli99-lab/ML-SupportVectorMachines.git)
+
 [Statistics - Coin toss problem](https://github.com/alepascoli99-lab/Statistics-CoinTossProblem.git)
 
 [Statistics - Bivariate Gaussian distribution](https://github.com/alepascoli99-lab/Statistics-BivariateGaussian.git)
