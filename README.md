@@ -6,6 +6,8 @@
 **Content**: This portfolio includes a collection of Python projects I developed during my Master studies. Each repository contains the main code in the form of a Jupyter notebook, a short description of the project and additional data files when needed. Hope you enjoy!
 
 ## Projects
+[Machine Learning - Neural networks for image classification](https://github.com/alepascoli99-lab/ML-NeuralNetworks.git)
+
 [Machine Learning - Clustering and image processing](https://github.com/alepascoli99-lab/ML-Clustering.git)
 
 [Statistics - Coin toss problem](https://github.com/alepascoli99-lab/Statistics-CoinTossProblem.git)
