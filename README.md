@@ -1,11 +1,14 @@
 # Portfolio
 ## Alessia Pascoli
 
-**Profile**: I am a recent graduate in Astrophysics from the University of Padova. I am passionate about data analysis and computational modelling and I am eager to explore the potential of numerical methods, AI and machine learning to address complex interdisciplinary challenges.
+**Profile**: Hi I am Alessia! I am a recent MSc graduate in Astrophysics with a strong interest in data science. I am driven by real-world challenges and eager to explore the potential of numerical methods, AI, and machine learning to address complex interdisciplinary problems. 
 
-**Content**: This portfolio includes a collection of Python projects I developed during my Master studies. Each repository contains the main code in the form of a Jupyter notebook, a short description of the project and additional data files when needed. Hope you enjoy!
+
+**Content**: This portfolio includes a collection of projects and assignments I developed during my MSc studies and postgraduate training. Each repository contains the main code, a short description of the project, instructions for reproducibility, and additional data files when needed. Hope you enjoy!
 
 ## Projects
+[Data Analysis - SQL](https://github.com/alepascoli99-lab/SQL.git)
+
 [Machine Learning - Neural networks for image classification](https://github.com/alepascoli99-lab/ML-NeuralNetworks.git)
 
 [Machine Learning - Clustering and image processing](https://github.com/alepascoli99-lab/ML-Clustering.git)
